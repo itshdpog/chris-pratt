@@ -1,0 +1,49 @@
+{
+	"storyName": "please for the love of god save me! chris pratt has my children I'm begging... call 911!!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"maro",
+			"chris",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lego",
+			"christwo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"avenger",
+			"christhree",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"chris",
+		"bf",
+		"gf"
+	],
+	"weekName": "children"
+}
