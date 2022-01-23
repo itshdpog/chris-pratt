@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sad chris.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="320" y="0" width="320" height="330"/>
+	<SubTexture name="Down0001" x="0" y="0" width="320" height="330"/>
+	<SubTexture name="Idle0000" x="320" y="0" width="320" height="330"/>
+	<SubTexture name="Left0000" x="640" y="0" width="660" height="493"/>
+	<SubTexture name="Left0001" x="1300" y="0" width="660" height="493"/>
+	<SubTexture name="Right0000" x="0" y="493" width="320" height="342"/>
+	<SubTexture name="Right0001" x="320" y="493" width="320" height="342"/>
+	<SubTexture name="Up0000" x="640" y="493" width="320" height="334"/>
+	<SubTexture name="Up0001" x="960" y="493" width="320" height="334"/>
+</TextureAtlas>
