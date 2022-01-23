@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-70
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "altIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "altLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "altDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "altRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-80
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "altUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/emmet",
+	"position": [
+		80,
+		20
+	],
+	"healthicon": "MarketEmmet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		60,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
